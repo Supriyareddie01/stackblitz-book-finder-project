@@ -35,6 +35,16 @@ git clone https://github.com/Supriyareddie01/stackblitz-book-finder-project.git'
    npm run dev
    
 5.Open your browser at http://localhost:3000
+
+## Notes
+
+- `app/page.tsx` is a **Client Component** (`'use client';`) to allow React hooks like `useState`.  
+- Tailwind CSS is configured via `tailwind.config.ts` and `postcss.config.js`.  
+- Node.js >= 18 is required to run the project locally.  
+- The app uses the **Google Books API** to fetch book data dynamically.  
+- Fully responsive design for desktop and mobile devices.
+- Live demo available at: [Book Finder Live Demo](https://stackblitz.com/github/Supriyareddie01/stackblitz-book-finder-project)
+
  
    
 
