@@ -23,7 +23,7 @@ It uses the **Google Books API** to search and display books dynamically.
 
 1. Clone the repository:
 
-git clone https://github.com/Supriyareddie01/stackblitz-book-finder-roject.git''''
+git clone https://github.com/Supriyareddie01/stackblitz-book-finder-project.git''''
 
 2. Navigate to the project folder:
    cd stackblitz-book-finder
